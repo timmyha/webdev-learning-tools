@@ -2,10 +2,9 @@
 
 #### javascript
 
-- [freeCodeCamp](https://freecodecamp.org) & [javascript.info](https://javascript.info) - I flipped between these two to get different perspectives. For more perspectives, I used [Colt Steele's Web Developer Boot Camp](https://www.udemy.com/course/the-web-developer-bootcamp/). Never pay full price for a udemy course, because the sale price is the real price. If there isn't a sale, clear your cookies or wait a few days. Google it.
-
+- [freeCodeCamp](https://freecodecamp.org) & [javascript.info](https://javascript.info) - I flipped between these two to get different perspectives.
 - for a cheaper bootcamp-like course, [scrimba](https://scrimba.com) is very good. some of the courses are free.
-
+- CodeAcademy is another option.
 - For higher-order functions in javascript (map, reduce, filter, etc), [fun fun function's](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) youtube playlist is amazing.
 
 - _bonus_ I did not use [The Odin Project](https://theodinproject.com), but I recently have been doing it to learn Ruby on Rails, and the Fundamentals chapter was actually very good. It teaches you git basics and how to use the command line, which is something I've seen people struggle with in study groups. I would consider beginning with that chapter if you aren't well-versed in how the internet works (such as HTTP requests, how domains work, etc)
